@@ -1,0 +1,7 @@
+{
+  "name": "Media Downloader Engine",
+  "description": "Production-grade social media media resolver and downloader engine with real metadata extraction and streaming downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
